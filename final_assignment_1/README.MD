@@ -9,7 +9,7 @@ It aims to combine words that are the same (hate, hates etc) during the countVec
 
 Using the <b> CountVectorizer over the HashingVectorizer </b>, in combination with the Lemmatizer function enhanced the performance. Stop words were removed, accents stripped, words converted to lowercase & n-grams included.
 
-# Iterations
+### Iterations
 
 1. SVM Model
 2. RDG Model
