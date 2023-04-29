@@ -4,6 +4,6 @@ Machine learning is the systematic study of algorithms and systems that improve 
 
 This repository is of the projects from Parsons Machine Learning course Spring 2023
 
-### Assignment 1 - Bag of Words - Movie Reviewa
+### Assignment 1 - Bag of Words - Movie Reviews
 ### Assignment 2 - Image Manipulation
 ### Assignment 3 - Clustering
