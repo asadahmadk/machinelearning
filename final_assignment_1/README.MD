@@ -1,6 +1,6 @@
 ## Topic Selection: Movie Reviews
 
-# Changes in Feature
+### Changes in Feature
 <b> AFINN sentiment dictionary </b>
 AFINN module was used to handle the totalling and additional characters / basic lemmatizing before scoring. The dictionary was modified to remove all positive words and convert negative scores into positive scores. Each review was then given a score based on the total value of words that matched the AFINN dictionary. This score was added to the quantitative features array.
 
