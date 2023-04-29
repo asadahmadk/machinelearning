@@ -10,6 +10,8 @@ Using scikit-images [https://scikit-image.org/docs/stable/] documentation I used
 
 3. Hough - performs a circular Hough transform of the image
 
+
+
 ### Submission
-For my final submission I used a combination of corner shi tomsi (neural network) and hough (neural network and perceptron model)
+For my final submission I used a combination of corner shi tomsi (neural network) and hough (neural network and perceptron model). Both the Perceptron and Neural Network Model performed extremely well from the defaults.
 
